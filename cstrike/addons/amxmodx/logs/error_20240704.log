@@ -1,0 +1,5 @@
+L 07/04/2024 - 04:57:41: Start of error session.
+L 07/04/2024 - 04:57:41: Info (map "jail_xmf") (file "addons/amxmodx/logs/error_20240704.log")
+L 07/04/2024 - 04:57:41: Invalid player id -1
+L 07/04/2024 - 04:57:41: [AMXX] Run time error 10 (plugin "jbextreme.amxx") (native "ShowSyncHudMsg") - debug not enabled!
+L 07/04/2024 - 04:57:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

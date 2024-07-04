@@ -1,0 +1,47 @@
+Protocol version 48
+Exe version 1.1.2.7 (cstrike)
+Exe build: 09:09:25 Jul  7 2017 (7561)
+Server IP address 192.168.0.101:27015
+   
+   Metamod version 1.21-am  Copyright (c) 2001-2013 Will Day <willday@metamod.org>
+   Metamod comes with ABSOLUTELY NO WARRANTY; for details type `meta gpl'.
+   This is free software, and you are welcome to redistribute it
+   under certain conditions; type `meta gpl' for details.
+   
+
+   AMX Mod X version 1.8.2 Copyright (c) 2004-2006 AMX Mod X Development Team 
+   AMX Mod X comes with ABSOLUTELY NO WARRANTY; for details type `amxx gpl'.
+   This is free software and you are welcome to redistribute it under 
+   certain conditions; type 'amxx gpl' for details.
+  
+Version 0.9.582 Windows
+[DPROTO]: Done.
+Can't "status", not connected
+Currently loaded plugins:
+      description      stat pend  file              vers      src  load  unlod
+ [ 1] AMX Mod X        RUN   -    amxmodx_mm.dll    v1.8.2    ini  Start ANY  
+ [ 2] dproto_EF        RUN   -    dproto.dll        v0.9.582  ini  Start Never
+ [ 3] Fun              RUN   -    fun_amxx.dll      v1.8.2    pl1  ANY   ANY  
+ [ 4] Engine           RUN   -    engine_amxx.dll   v1.8.2    pl1  ANY   ANY  
+ [ 5] FakeMeta         RUN   -    fakemeta_amxx.dl  v1.8.2    pl1  ANY   ANY  
+ [ 6] CStrike          RUN   -    cstrike_amxx.dll  v1.8.2    pl1  ANY   ANY  
+ [ 7] CSX              RUN   -    csx_amxx.dll      v1.8.2    pl1  ANY   ANY  
+ [ 8] Ham Sandwich     RUN   -    hamsandwich_amxx  v1.8.2    pl1  ANY   ANY  
+8 plugins, 8 running
+Protocol version 48
+Exe version 1.1.2.7 (cstrike)
+Exe build: 09:09:25 Jul  7 2017 (7561)
+Server IP address 192.168.0.101:27015
+   
+   Metamod version 1.21-am  Copyright (c) 2001-2013 Will Day <willday@metamod.org>
+   Metamod comes with ABSOLUTELY NO WARRANTY; for details type `meta gpl'.
+   This is free software, and you are welcome to redistribute it
+   under certain conditions; type `meta gpl' for details.
+   
+
+   AMX Mod X version 1.8.2 Copyright (c) 2004-2006 AMX Mod X Development Team 
+   AMX Mod X comes with ABSOLUTELY NO WARRANTY; for details type `amxx gpl'.
+   This is free software and you are welcome to redistribute it under 
+   certain conditions; type 'amxx gpl' for details.
+  
+Can't "status", not connected
