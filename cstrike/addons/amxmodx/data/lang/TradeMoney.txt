@@ -1,0 +1,104 @@
+[en]
+SPAWNMSG = !tIf you want !yRequest !tor !yGive !tmoney , write !y( !g/money !y, !g!money !y, !g.money !y)
+EXIT = \yExit
+MAINMENUTITLE = \yTrade Money
+MAINMENUITEM1 = \wGive Money
+MAINMENUITEM2 = \wRequest Money
+GIVEMENUTITLE = \ySelect a player to give Money
+REQMENUTITLE = \ySelect a player to request Money
+LIMITOPEN = !tYou cant open more than !y%d !ttimes per round
+CONFMENUTITLE = \r%s \ysent you a request for money
+CONFMENUITEM1 = \wAccept
+CONFMENUITEM2 = \wRefuse
+PLAYERACCEPT = !tAccepted the request from !g%s
+TARGETACCEPT = !g%s !taccepted the request
+PLAYERREFUSE = !tRefusing requests
+TARGETREFUSE = !g%s !tdenied the request
+ENOUGHMONEY = !yYou dont have enough money
+AMOUNTGIVE = !tYou've given !g$%d !tto !y%s
+AMOUNTRECEIVE = !y%s !tgave you !g$%d
+PREFIX = !y[TM]
+
+[es]
+SPAWNMSG = !tSi queres !ymanguear !to !yprestar !tguita, escribe !g/money.
+EXIT = \ySalir
+MAINMENUTITLE = \yRuta del dinero K
+MAINMENUITEM1 =  \wPrestar guita
+MAINMENUITEM2 = \wManguear guita
+GIVEMENUTITLE = \yElige a un judio para prestarle guita
+REQMENUTITLE = \yElige a un judio para manguearle guita
+LIMITOPEN = !tNo puedes tranzar mas de !y%d !tveces por ronda.
+CONFMENUTITLE = El judio de \r%s \yquiere que le prestes guita.
+CONFMENUITEM1 = \wSi dale
+CONFMENUITEM2 = \wNi en pedo
+PLAYERACCEPT = !tacepta prestarle guita a !g%s.
+TARGETACCEPT = !g%s !tacepta prestarte guita.
+PLAYERREFUSE = !tNi en pedo le prestas guita.
+TARGETREFUSE = !g%s !tni en pedo te presta guita.
+ENOUGHMONEY = !yNo tenes guita ni para vos.
+AMOUNTGIVE = !tLe prestaste !g$%d !ta !y%s.
+AMOUNTRECEIVE = !y%s !tte presto !g$%d.
+PREFIX = !y[HM]
+
+[de]
+SPAWNMSG = !tWenn du !tGeld !yvergeben !toder !yanfordern willst, schreibe !y( !g/money !y, !g!money !y, !g.money !y)
+EXIT = \yBeenden
+MAINMENUTITLE = \yGeld handeln
+MAINMENUITEM1 = \wGeld vergeben
+MAINMENUITEM2 = \wGeld anfordern
+GIVEMENUTITLE = \yWaehle einen Spieler dem du Geld geben willst
+REQMENUTITLE = \yWaehle einen Spieler um nach Geld zufragen
+LIMITOPEN = !tDu kannst nur !y%d !tmal pro Runde öffnen
+CONFMENUTITLE = \r%s \ysendet dir eine Anfrage um etwas Geld zu bekommen
+CONFMENUITEM1 = \wAkzeptieren
+CONFMENUITEM2 = \wAblehnen
+PLAYERACCEPT = !tAkzeptiert die Anfrage von !g%s
+TARGETACCEPT = !g%s !takzeptiert die Anfrage
+PLAYERREFUSE = !tlehnt die Anfrage ab
+TARGETREFUSE = !g%s !tlehnte die Anfrage ab
+ENOUGHMONEY = !yDu hast nicht genug Geld
+AMOUNTGIVE = !tDu hast !g$%d !tan !y%s vergeben
+AMOUNTRECEIVE = !y%s !tgab dir !g$%d 
+PREFIX = !y[TM]
+
+[nl]
+SPAWNMSG = !tAls je geld wilt !yVragen !tof !ygeven, scrhijf dan !y( !g/money !y, !g!money !y of !g.money !y) in de chat.
+EXIT = \yVerlaat
+MAINMENUTITLE = \yRuil Geld
+MAINMENUITEM1 = \wGeef Geld
+MAINMENUITEM2 = \wVraag geld
+GIVEMENUTITLE = \ySelecteer een speler om geld aan te geven
+REQMENUTITLE = \ySelecteer een speler om geld van te vragen
+LIMITOPEN = !tJe kan dit niet meer dan !y%d !tkeren opendoen.
+CONFMENUTITLE = \r%s \ystuurde je de vraag voor geld
+CONFMENUITEM1 = \wAccepteer
+CONFMENUITEM2 = \wWeiger
+PLAYERACCEPT = !tAccepteerde de vraag van !g%s.
+TARGETACCEPT = !g%s !taccepteerde de vraag.
+PLAYERREFUSE = !tWeigerde de vraag om geld.
+TARGETREFUSE = !g%s !tweigerde de vraag om geld.
+ENOUGHMONEY = !yJe hebt niet genoeg geld.
+AMOUNTGIVE = !tJe gaf !g$%d !taan !y%s.
+AMOUNTRECEIVE = !y%s !tgaf jouw !g$%d. 
+PREFIX = !y[TM]
+
+[pl]
+SPAWNMSG = !tJesli chcesz !yPoprosic o !tlub !yDac !tkase , napisz !y(  !g/money !y, !g!money !y, !g.money !y)
+EXIT = \yWyjscie
+MAINMENUTITLE = \yWymiana pieniedzy
+MAINMENUITEM1 = \wPodaruj pieniadze
+MAINMENUITEM2 = \wPopros o pieniadze
+GIVEMENUTITLE = \yWybierz gracza, aby podarowac pieniadze
+REQMENUTITLE = \yWybierz gracza, aby poprosic o pieniadze
+LIMITOPEN = !tNie mozesz otwierac wiecej niz !y%d !trazy na runde
+CONFMENUTITLE = \r%s \ypoprosil Cie o pieniadze
+CONFMENUITEM1 = \wAkceptuj
+CONFMENUITEM2 = \wOdrzuc
+PLAYERACCEPT = !tZaakceptowano wniosek od !g%s
+TARGETACCEPT = !g%s !tzaakceptowal Twoja prosbe
+PLAYERREFUSE = !tPWniosek odrzucony
+TARGETREFUSE = !g%s !todrzucil Twoj wniosek
+ENOUGHMONEY = !yNie masz tyle pieniedzy
+AMOUNTGIVE = !tPrzekazales!g$%d !tgraczowi !y%s
+AMOUNTRECEIVE = !y%s !tpodarowal Ci !g$%d
+PREFIX = !y[TM]
