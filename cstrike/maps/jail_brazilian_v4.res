@@ -1,0 +1,9 @@
+models/cat.mdl
+models/tree2.mdl
+models/tree1.mdl
+models/money.mdl
+models/arrowl.mdl
+models/bathroom_toilet.mdl
+maps/jail_brazilian_v3.bsp
+maps/jail_brazilian_v3.res
+maps/jail_brazilian_v3.txt

@@ -1,0 +1,50 @@
+L 07/06/2024 - 11:42:37: -------- Mapchange to jail_xmf --------
+L 07/06/2024 - 11:42:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/06/2024 - 11:43:01: [admin.amxx] Login: "Lukaneki<2><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 11:44:55: [admincmd.amxx] Cmd: "Lukaneki<2><STEAM_0:0:38062460><>" changelevel "jail_xmf_play4ever"
+L 07/06/2024 - 11:44:57: -------- Mapchange to jail_xmf_play4ever --------
+L 07/06/2024 - 11:44:57: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/06/2024 - 11:44:57: [admin.amxx] Login: "Lukaneki<2><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 11:45:07: [admin.amxx] Login: "Lukaneki<5><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 12:03:11: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/06/2024 - 12:03:26: [mapchooser.amxx] Vote: Voting for the nextmap finished. Map jail_xmf_play4ever will be extended to next 15 minutes
+L 07/06/2024 - 12:04:32: [admincmd.amxx] Cmd: "Lukaneki<5><STEAM_0:0:38062460><>" set cvar (name "sv_restart") (value "1")
+L 07/06/2024 - 12:46:01: [admincmd.amxx] Cmd: "Lukaneki<5><STEAM_0:0:38062460><>" set cvar (name "sv_airaccelerate") (value "100")
+L 07/06/2024 - 12:47:24: [admincmd.amxx] Cmd: "Lukaneki<5><STEAM_0:0:38062460><>" set cvar (name "sv_airaccelerate") (value "300")
+L 07/06/2024 - 12:58:38: [admincmd.amxx] Cmd: "Lukaneki<5><STEAM_0:0:38062460><>" set cvar (name "mp_roundtime") (value "10")
+L 07/06/2024 - 12:59:12: [admincmd.amxx] Cmd: "Lukaneki<5><STEAM_0:0:38062460><>" set cvar (name "mp_roundtime") (value "10000")
+L 07/06/2024 - 13:20:12: -------- Mapchange to jail_aztec_escape --------
+L 07/06/2024 - 13:20:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/06/2024 - 13:21:01: [admin.amxx] Login: "Lukaneki<17><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 13:21:02: [admin.amxx] Login: "Lukaneki<18><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 13:33:15: -------- Mapchange to jail_sanctuary --------
+L 07/06/2024 - 13:33:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/06/2024 - 13:33:16: [admin.amxx] Login: "Lukaneki<18><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 13:33:18: [admin.amxx] Login: "Lukaneki<23><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 14:02:16: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/06/2024 - 14:02:31: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be jail_pyramid
+L 07/06/2024 - 14:04:28: -------- Mapchange to jail_pyramid --------
+L 07/06/2024 - 14:04:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/06/2024 - 14:04:28: [admin.amxx] Login: "Lukaneki<23><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 14:04:30: [admin.amxx] Login: "Lukaneki<26><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 14:22:43: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/06/2024 - 14:22:58: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be jail_revolution
+L 07/06/2024 - 14:24:55: -------- Mapchange to jail_revolution --------
+L 07/06/2024 - 14:24:55: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/06/2024 - 14:24:55: [admin.amxx] Login: "Lukaneki<26><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 14:24:57: [admin.amxx] Login: "Lukaneki<32><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 14:47:53: -------- Mapchange to jail_xmf --------
+L 07/06/2024 - 14:47:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/06/2024 - 14:49:35: [admin.amxx] Login: "Lukaneki<1><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 14:49:37: [admin.amxx] Login: "Lukaneki<2><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 14:56:19: [admincmd.amxx] Cmd: "Lukaneki<2><STEAM_0:0:38062460><>" changelevel "jb_oasis"
+L 07/06/2024 - 14:56:22: -------- Mapchange to jb_oasis --------
+L 07/06/2024 - 14:56:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/06/2024 - 14:56:23: [admin.amxx] Login: "Lukaneki<2><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 14:56:27: [admin.amxx] Login: "Lukaneki<3><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 15:08:47: [admincmd.amxx] Cmd: "Lukaneki<3><STEAM_0:0:38062460><>" changelevel "jb_snow"
+L 07/06/2024 - 15:08:49: -------- Mapchange to jb_snow --------
+L 07/06/2024 - 15:08:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/06/2024 - 15:08:50: [admin.amxx] Login: "Lukaneki<3><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 15:09:03: [admin.amxx] Login: "Lukaneki<4><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/06/2024 - 15:30:57: [admincmd.amxx] Cmd: "Lukaneki<4><STEAM_0:0:38062460><>" set cvar (name "sv_airaccelerate") (value "200")

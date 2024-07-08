@@ -1,0 +1,205 @@
+L 07/07/2024 - 00:33:06: -------- Mapchange to jail_xmf --------
+L 07/07/2024 - 00:33:09: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/07/2024 - 00:33:25: [admin.amxx] Login: "Lukaneki<3><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 00:42:10: [mapsmenu.amxx] Vote: "Lukaneki<3><STEAM_0:0:38062460><>" vote maps (map#1 "jail_brazilian_v4") (map#2 "jail_beach_v4") (map#3 "jail_arizona") (map#4 "jail_assault")
+L 07/07/2024 - 00:42:22: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to jail_beach_v4
+L 07/07/2024 - 00:42:32: [mapsmenu.amxx] Vote: Result refused
+L 07/07/2024 - 00:43:13: [admincmd.amxx] Cmd: "Lukaneki<3><STEAM_0:0:38062460><>" changelevel "jail_beach_v4"
+L 07/07/2024 - 00:43:16: -------- Mapchange to jail_beach_v4 --------
+L 07/07/2024 - 00:43:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/07/2024 - 00:43:17: [admin.amxx] Login: "Lukaneki<3><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 00:43:20: [admin.amxx] Login: "Lukaneki<10><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 01:01:31: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/07/2024 - 01:01:47: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be jail_restiq
+L 07/07/2024 - 01:03:40: -------- Mapchange to jail_restiq --------
+L 07/07/2024 - 01:03:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/07/2024 - 01:03:40: [admin.amxx] Login: "Lukaneki<10><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 01:03:42: [admin.amxx] Login: "Lukaneki<20><STEAM_0:0:38062460><>" became an admin (account "192.168.0.101") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 01:17:32: -------- Mapchange to jail_xmf --------
+L 07/07/2024 - 01:17:32: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/07/2024 - 01:17:46: [admin.amxx] Login: "Lukaneki<3><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 01:18:01: [admin.amxx] Login: "Plomero<5><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 01:18:04: [admin.amxx] Login: "Plomero<6><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 01:20:49: [mapsmenu.amxx] Vote: "Lukaneki<3><STEAM_0:0:38062460><>" vote maps (map#1 "jail_greytown") (map#2 "jail_insurrection_ld") (map#3 "jail_soon_fixed4") (map#4 "jb_projetocs")
+L 07/07/2024 - 01:21:01: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to jail_insurrection_ld
+L 07/07/2024 - 01:21:08: [mapsmenu.amxx] Vote: Result accepted
+L 07/07/2024 - 01:21:10: -------- Mapchange to jail_insurrection_ld --------
+L 07/07/2024 - 01:21:10: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/07/2024 - 01:21:10: [admin.amxx] Login: "Plomero<6><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 01:21:10: [admin.amxx] Login: "Lukaneki<3><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 01:21:12: [admin.amxx] Login: "Lukaneki<8><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 01:21:13: [admin.amxx] Login: "Plomero<10><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 01:37:19: [plmenu.amxx] Cmd: "Lukaneki<8><STEAM_0:0:38062460><>" slay "Plomero<10><STEAM_0:0:50716135><>"
+L 07/07/2024 - 01:37:22: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" transfer "Neishajo<11><STEAM_0:0:82699618><>" (team "TERRORIST")
+L 07/07/2024 - 01:37:24: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" transfer "Plomero<10><STEAM_0:0:50716135><>" (team "CT")
+L 07/07/2024 - 01:39:24: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/07/2024 - 01:39:39: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be jail_brazilian_v4
+L 07/07/2024 - 01:40:03: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:04: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:04: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:04: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:04: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:04: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:04: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:05: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:05: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:05: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:05: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:05: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:05: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:05: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:06: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:06: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:06: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:06: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:06: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:06: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:06: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:07: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:08: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:08: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:08: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:08: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:10: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:10: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:10: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:10: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:10: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:40:11: [plmenu.amxx] Cmd: "Plomero<10><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<9><STEAM_0:0:37381161><>"
+L 07/07/2024 - 01:41:39: -------- Mapchange to jail_brazilian_v4 --------
+L 07/07/2024 - 01:41:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/07/2024 - 01:41:39: [admin.amxx] Login: "Lukaneki<8><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 01:41:39: [admin.amxx] Login: "Plomero<10><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 01:41:42: [admin.amxx] Login: "Lukaneki<13><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 01:41:43: [admin.amxx] Login: "Plomero<16><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 01:59:53: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/07/2024 - 02:00:08: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be jail_galaxy
+L 07/07/2024 - 02:02:02: -------- Mapchange to jail_galaxy --------
+L 07/07/2024 - 02:02:02: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/07/2024 - 02:02:02: [admin.amxx] Login: "Plomero<16><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 02:02:02: [admin.amxx] Login: "Lukaneki<13><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 02:02:04: [admin.amxx] Login: "Lukaneki<28><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 02:02:05: [admin.amxx] Login: "Plomero<35><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 02:08:25: [admincmd.amxx] Cmd: "Lukaneki<28><STEAM_0:0:38062460><>" set cvar (name "sv_airaccelerate") (value "200")
+L 07/07/2024 - 02:20:16: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/07/2024 - 02:20:31: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be jail_armageddon
+L 07/07/2024 - 02:22:24: -------- Mapchange to jail_armageddon --------
+L 07/07/2024 - 02:22:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/07/2024 - 02:22:24: [admin.amxx] Login: "Plomero<35><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 02:22:28: [admin.amxx] Login: "Plomero<42><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 02:34:01: [admin.amxx] Login: "Lukaneki<43><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 02:34:03: [admin.amxx] Login: "Lukaneki<44><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 02:36:07: [adminchat.amxx] Chat: "Lukaneki<44><STEAM_0:0:38062460><>" tsay "Hitler put0"
+L 07/07/2024 - 02:40:38: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/07/2024 - 02:40:53: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be jail_brazilian_v4
+L 07/07/2024 - 02:41:08: [admin.amxx] Login: "Lukaneki<45><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 02:42:56: -------- Mapchange to jail_brazilian_v4 --------
+L 07/07/2024 - 02:42:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/07/2024 - 02:42:56: [admin.amxx] Login: "Plomero<42><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 02:42:56: [admin.amxx] Login: "Lukaneki<45><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 02:42:57: [admin.amxx] Login: "Plomero<46><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 02:42:58: [admin.amxx] Login: "Lukaneki<47><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 02:45:17: [mapsmenu.amxx] Cmd: "Plomero<46><STEAM_0:0:50716135><>" changelevel "jail_rehab_b4"
+L 07/07/2024 - 02:45:19: -------- Mapchange to jail_rehab_b4 --------
+L 07/07/2024 - 02:45:19: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/07/2024 - 02:45:19: [admin.amxx] Login: "Plomero<46><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 02:45:19: [admin.amxx] Login: "Lukaneki<47><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 02:45:21: [admin.amxx] Login: "Lukaneki<48><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 02:45:22: [admin.amxx] Login: "Plomero<51><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 03:03:33: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/07/2024 - 03:03:48: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be jail_summer
+L 07/07/2024 - 03:05:39: -------- Mapchange to jail_summer --------
+L 07/07/2024 - 03:05:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/07/2024 - 03:05:40: [admin.amxx] Login: "Plomero<51><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 03:05:40: [admin.amxx] Login: "Lukaneki<48><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 03:05:56: [admin.amxx] Login: "Lukaneki<57><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 03:05:57: [admin.amxx] Login: "Plomero<58><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 03:23:54: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/07/2024 - 03:24:09: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be jail_assault
+L 07/07/2024 - 03:26:13: -------- Mapchange to jail_assault --------
+L 07/07/2024 - 03:26:13: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/07/2024 - 03:26:13: [admin.amxx] Login: "Plomero<58><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 03:26:13: [admin.amxx] Login: "Lukaneki<57><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 03:26:15: [admin.amxx] Login: "Lukaneki<60><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 03:26:16: [admin.amxx] Login: "Plomero<65><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 03:26:42: [plmenu.amxx] Cmd: "Plomero<65><STEAM_0:0:50716135><>" transfer "Plomero<65><STEAM_0:0:50716135><>" (team "TERRORIST")
+L 07/07/2024 - 03:26:54: [plmenu.amxx] Cmd: "Plomero<65><STEAM_0:0:50716135><>" slay "FREE CHORE<64><STEAM_0:1:121739444><>"
+L 07/07/2024 - 03:27:12: [plmenu.amxx] Cmd: "Plomero<65><STEAM_0:0:50716135><>" transfer "AeroPlate<62><STEAM_0:0:102598379><>" (team "TERRORIST")
+L 07/07/2024 - 03:34:51: [mapsmenu.amxx] Cmd: "Plomero<65><STEAM_0:0:50716135><>" changelevel "jail_greytown"
+L 07/07/2024 - 03:34:53: -------- Mapchange to jail_greytown --------
+L 07/07/2024 - 03:34:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/07/2024 - 03:34:53: [admin.amxx] Login: "Plomero<65><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 03:34:53: [admin.amxx] Login: "Lukaneki<60><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 03:34:55: [admin.amxx] Login: "Lukaneki<66><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 03:34:56: [admin.amxx] Login: "Plomero<69><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 03:49:33: [plmenu.amxx] Cmd: "Lukaneki<66><STEAM_0:0:38062460><>" slap with 0 damage "Plomero<69><STEAM_0:0:50716135><>"
+L 07/07/2024 - 03:49:45: [plmenu.amxx] Cmd: "Lukaneki<66><STEAM_0:0:38062460><>" slap with 0 damage "Plomero<69><STEAM_0:0:50716135><>"
+L 07/07/2024 - 03:49:46: [plmenu.amxx] Cmd: "Lukaneki<66><STEAM_0:0:38062460><>" slap with 0 damage "Plomero<69><STEAM_0:0:50716135><>"
+L 07/07/2024 - 03:49:46: [plmenu.amxx] Cmd: "Lukaneki<66><STEAM_0:0:38062460><>" slap with 0 damage "Plomero<69><STEAM_0:0:50716135><>"
+L 07/07/2024 - 03:50:01: [plmenu.amxx] Cmd: "Lukaneki<66><STEAM_0:0:38062460><>" slap with 0 damage "Plomero<69><STEAM_0:0:50716135><>"
+L 07/07/2024 - 03:50:01: [plmenu.amxx] Cmd: "Lukaneki<66><STEAM_0:0:38062460><>" slap with 0 damage "Plomero<69><STEAM_0:0:50716135><>"
+L 07/07/2024 - 03:50:01: [plmenu.amxx] Cmd: "Lukaneki<66><STEAM_0:0:38062460><>" slap with 0 damage "Plomero<69><STEAM_0:0:50716135><>"
+L 07/07/2024 - 03:50:02: [plmenu.amxx] Cmd: "Lukaneki<66><STEAM_0:0:38062460><>" slap with 0 damage "Plomero<69><STEAM_0:0:50716135><>"
+L 07/07/2024 - 03:50:02: [plmenu.amxx] Cmd: "Lukaneki<66><STEAM_0:0:38062460><>" slap with 0 damage "Plomero<69><STEAM_0:0:50716135><>"
+L 07/07/2024 - 03:50:02: [plmenu.amxx] Cmd: "Lukaneki<66><STEAM_0:0:38062460><>" slap with 0 damage "Plomero<69><STEAM_0:0:50716135><>"
+L 07/07/2024 - 03:50:02: [plmenu.amxx] Cmd: "Lukaneki<66><STEAM_0:0:38062460><>" slap with 0 damage "Plomero<69><STEAM_0:0:50716135><>"
+L 07/07/2024 - 03:50:49: [plmenu.amxx] Cmd: "Lukaneki<66><STEAM_0:0:38062460><>" slap with 0 damage "Plomero<69><STEAM_0:0:50716135><>"
+L 07/07/2024 - 03:50:49: [plmenu.amxx] Cmd: "Lukaneki<66><STEAM_0:0:38062460><>" slap with 0 damage "Plomero<69><STEAM_0:0:50716135><>"
+L 07/07/2024 - 03:50:49: [plmenu.amxx] Cmd: "Lukaneki<66><STEAM_0:0:38062460><>" slap with 0 damage "Plomero<69><STEAM_0:0:50716135><>"
+L 07/07/2024 - 03:53:07: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/07/2024 - 03:53:23: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be jb_desperados
+L 07/07/2024 - 03:54:10: [plmenu.amxx] Cmd: "Lukaneki<66><STEAM_0:0:38062460><>" transfer "Chocobar<71><STEAM_0:0:81067493><>" (team "TERRORIST")
+L 07/07/2024 - 03:55:16: -------- Mapchange to jb_desperados --------
+L 07/07/2024 - 03:55:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/07/2024 - 03:55:17: [admin.amxx] Login: "Plomero<69><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 03:55:17: [admin.amxx] Login: "Lukaneki<66><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 03:55:21: [admin.amxx] Login: "Lukaneki<72><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 03:55:25: [admin.amxx] Login: "Plomero<77><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 03:55:51: [plmenu.amxx] Cmd: "Lukaneki<72><STEAM_0:0:38062460><>" transfer "[1bpp] ESTATA<76><STEAM_0:1:55733352><>" (team "CT")
+L 07/07/2024 - 03:55:52: [plmenu.amxx] Cmd: "Lukaneki<72><STEAM_0:0:38062460><>" transfer "Chocobar<75><STEAM_0:0:81067493><>" (team "TERRORIST")
+L 07/07/2024 - 04:01:51: [mapsmenu.amxx] Vote: "Lukaneki<72><STEAM_0:0:38062460><>" vote maps (map#1 "jail_crime") (map#2 "jail_eternity") (map#3 "jail_exotics") (map#4 "jail_psychics")
+L 07/07/2024 - 04:02:03: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to jail_exotics
+L 07/07/2024 - 04:02:05: [mapsmenu.amxx] Vote: Result accepted
+L 07/07/2024 - 04:02:07: -------- Mapchange to jail_exotics --------
+L 07/07/2024 - 04:02:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/07/2024 - 04:02:07: [admin.amxx] Login: "Plomero<77><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 04:02:07: [admin.amxx] Login: "Lukaneki<72><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 04:02:21: [admin.amxx] Login: "Lukaneki<80><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 04:02:26: [admin.amxx] Login: "Plomero<83><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 04:06:15: [plmenu.amxx] Cmd: "Lukaneki<80><STEAM_0:0:38062460><>" slap with 0 damage "FREE CHORE<78><STEAM_0:1:121739444><>"
+L 07/07/2024 - 04:06:22: [plmenu.amxx] Cmd: "Lukaneki<80><STEAM_0:0:38062460><>" slap with 0 damage "[1bpp] ESTATA<81><STEAM_0:1:55733352><>"
+L 07/07/2024 - 04:17:48: [adminchat.amxx] Chat: "Lukaneki<80><STEAM_0:0:38062460><>" tsay "3"
+L 07/07/2024 - 04:17:50: [adminchat.amxx] Chat: "Lukaneki<80><STEAM_0:0:38062460><>" tsay "2"
+L 07/07/2024 - 04:17:53: [adminchat.amxx] Chat: "Lukaneki<80><STEAM_0:0:38062460><>" tsay "1"
+L 07/07/2024 - 04:18:33: [adminchat.amxx] Chat: "Lukaneki<80><STEAM_0:0:38062460><>" tsay "3 2 1 go"
+L 07/07/2024 - 04:20:36: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/07/2024 - 04:20:52: [mapchooser.amxx] Vote: Voting for the nextmap finished. Map jail_exotics will be extended to next 15 minutes
+L 07/07/2024 - 04:35:36: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/07/2024 - 04:35:51: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be jail_revolution
+L 07/07/2024 - 04:37:50: -------- Mapchange to jail_revolution --------
+L 07/07/2024 - 04:37:50: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\cachear.txt
+L 07/07/2024 - 04:37:50: [admin.amxx] Login: "Plomero<83><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 04:37:50: [admin.amxx] Login: "Lukaneki<80><STEAM_0:0:38062460><>" became an admin (account "STEAM_0:0:38062460") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 07/07/2024 - 04:37:50: [admin.amxx] Login: "Plomero<84><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 04:37:53: [admin.amxx] Login: "Plomero<86><STEAM_0:0:50716135><>" became an admin (account "STEAM_0:0:50716135") (access "bcdefghijklmnopqrstu") (address "38.7.35.30")
+L 07/07/2024 - 04:50:58: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<82><STEAM_0:0:37381161><>"
+L 07/07/2024 - 04:51:00: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "[8bpp] Fushioh<82><STEAM_0:0:37381161><>"
+L 07/07/2024 - 04:51:00: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 04:51:02: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 04:51:08: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 04:51:08: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 04:51:09: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 04:51:09: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 04:51:09: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 04:51:09: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 04:51:09: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 04:51:09: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 04:51:09: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 04:51:10: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 04:51:10: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 04:51:10: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 04:51:10: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 04:51:11: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 04:51:11: [plmenu.amxx] Cmd: "Plomero<86><STEAM_0:0:50716135><>" slap with 0 damage "Chocobar<79><STEAM_0:0:81067493><>"
+L 07/07/2024 - 05:11:04: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/07/2024 - 05:11:19: [mapchooser.amxx] Vote: Voting for the nextmap finished. Map jail_revolution will be extended to next 15 minutes
