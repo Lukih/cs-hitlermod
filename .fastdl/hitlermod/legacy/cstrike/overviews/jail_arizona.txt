@@ -1,0 +1,14 @@
+// overview description file for jail_arizona.bsp by x-regit-x
+
+global 
+{
+	ZOOM	1.67
+	ORIGIN	104.00 	-672.00	-217.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/jail_arizona.bmp"
+	HEIGHT	-217.00
+}

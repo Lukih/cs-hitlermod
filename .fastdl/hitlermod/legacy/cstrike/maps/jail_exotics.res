@@ -1,0 +1,9 @@
+//halflife.wad
+//models/winebottle.mdl
+sound/exotics/music2.wav
+sound/exotics/music3.wav
+sound/exotics/music1.wav
+//sprites/laserbeam.spr
+//sound/ambience/waterrun.wav
+//sprites/smokepuff.spr
+models/tre/palmeira.mdl

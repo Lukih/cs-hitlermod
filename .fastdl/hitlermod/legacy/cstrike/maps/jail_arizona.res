@@ -1,0 +1,13 @@
+cstrike.wad
+halflife.wad
+cs_dust.wad
+gfx/env/desup.tga
+gfx/env/desdn.tga
+gfx/env/deslf.tga
+gfx/env/desrt.tga
+gfx/env/desft.tga
+gfx/env/desbk.tga
+models/props/bathroom_toilet.mdl
+overviews/jail_arizona.bmp
+overviews/jail_arizona.txt
+sound/ambience/waterrun.wav

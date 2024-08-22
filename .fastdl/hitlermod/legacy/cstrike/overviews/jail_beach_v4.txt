@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	0.91
+	ORIGIN	8.00 	     268.00	   -281
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/jail_beach_v4.bmp"
+	HEIGHT	-281
+}
